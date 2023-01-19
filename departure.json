@@ -3,42 +3,42 @@
           "id": 1,
           "d_time_in_min": "1333",
           "d_time_string": "22:13",
-          "d_bus_stop_id": 770,
+          "d_bus_stop_id": 1,
           "d_bus_line_id": 2
         },
         {
             "id": 2,
           "d_time_in_min": "1334",
           "d_time_string": "22:14",
-          "d_bus_stop_id": 785,
+          "d_bus_stop_id": 2,
           "d_bus_line_id": 2
         },
         {
             "id": 3,
           "d_time_in_min": "1335",
           "d_time_string": "22:15",
-          "d_bus_stop_id": 770,
+          "d_bus_stop_id": 1,
           "d_bus_line_id": 5
         },
         {
             "id": 4,
           "d_time_in_min": "1336",
           "d_time_string": "22:16",
-          "d_bus_stop_id": 785,
+          "d_bus_stop_id": 1,
           "d_bus_line_id": 5
         },
         {
             "id": 5,
           "d_time_in_min": "1337",
           "d_time_string": "22:17",
-          "d_bus_stop_id": 770,
+          "d_bus_stop_id": 3,
           "d_bus_line_id": 10
         },
         {
             "id": 6,
           "d_time_in_min": "1338",
           "d_time_string": "22:18",
-          "d_bus_stop_id": 770,
+          "d_bus_stop_id": 1,
           "d_bus_line_id": 2
         }
     ]
