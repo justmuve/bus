@@ -36,8 +36,15 @@
         },
         {
             "id": 6,
+          "d_time_in_min": "1337",
+          "d_time_string": "23:17",
+          "d_bus_stop_id": 3,
+          "d_bus_line_id": 10
+        },
+        {
+            "id": 7,
           "d_time_in_min": "1338",
-          "d_time_string": "22:18",
+          "d_time_string": "20:18",
           "d_bus_stop_id": 1,
           "d_bus_line_id": 2
         }
