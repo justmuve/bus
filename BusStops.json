@@ -1,5 +1,4 @@
-{
-      "stops": [
+ [
     {
       "id": "polimirovskaja-even",
       "name": "Полимировская",
@@ -291,5 +290,4 @@
       "latitude": 55.539994,
       "longitude": 28.621545
     }
-          ]
-}
+ ]
