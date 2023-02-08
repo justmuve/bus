@@ -1,13 +1,13 @@
  [
     {
-      "id": "polimirovskaja-even",
+      "id": 1,
       "name": "Полимировская",
       "direction": "чётная",
       "latitude": 55.503586,
       "longitude": 28.706229
     },
     {
-      "id": "polimirovskaja-odd",
+      "id": 2,
       "name": "Полимировская",
       "direction": "нечётная",
       "latitude": 55.504084,
@@ -21,273 +21,45 @@
       "longitude": 28.706899
     },
     {
-      "id": "vosmoj-mikrorajon-even",
+      "id": 3,
       "name": "Восьмой микрорайон",
       "direction": "чётная",
       "latitude": 55.506998,
       "longitude": 28.701825
     },
     {
-      "id": "vosmoj-mikrorajon-odd",
+      "id": 4,
       "name": "Восьмой микрорайон",
       "direction": "нечётная",
       "latitude": 55.508778,
       "longitude": 28.699604
     },
     {
-      "id": "vasilevtsy-even",
+      "id": 5,
       "name": "Василевцы",
       "direction": "чётная",
       "latitude": 55.510041,
       "longitude": 28.697424
     },
     {
-      "id": "vasilevtsy-odd",
+      "id": 6,
       "name": "Василевцы",
       "direction": "нечётная",
       "latitude": 55.511238,
       "longitude": 28.696197
     },
     {
-      "id": "podkasteltsy-even",
+      "id": 7,
       "name": "Подкастельцы",
       "direction": "чётная",
       "latitude": 55.512152,
       "longitude": 28.6942
     },
     {
-      "id": "podkasteltsy-odd",
+      "id": 8,
       "name": "Подкастельцы",
       "direction": "нечётная",
       "latitude": 55.513136,
       "longitude": 28.693544
-    },
-    {
-      "id": "zavod-izmeritel-even",
-      "name": "Завод «Измеритель»",
-      "direction": "чётная",
-      "latitude": 55.516894,
-      "longitude": 28.687261
-    },
-    {
-      "id": "zavod-izmeritel-odd",
-      "name": "Завод «Измеритель»",
-      "direction": "нечётная",
-      "latitude": 55.517926,
-      "longitude": 28.68629
-    },
-    {
-      "id": "gostinitsa-naftan-even",
-      "name": "Гостиница «Нафтан»",
-      "direction": "чётная",
-      "latitude": 55.520705,
-      "longitude": 28.681177
-    },
-    {
-      "id": "gostinitsa-naftan-odd",
-      "name": "Гостиница «Нафтан»",
-      "direction": "нечётная",
-      "latitude": 55.521076,
-      "longitude": 28.681355
-    },
-    {
-      "id": "kinoteatr-minsk-even",
-      "name": "Кинотеатр «Минск»",
-      "direction": "чётная",
-      "latitude": 55.523993,
-      "longitude": 28.675754
-    },
-    {
-      "id": "kinoteatr-minsk-odd",
-      "name": "Кинотеатр «Минск»",
-      "direction": "нечётная",
-      "latitude": 55.52512,
-      "longitude": 28.6746
-    },
-    {
-      "id": "muzykalnaja-shkola-even",
-      "name": "Музыкальная школа",
-      "direction": "чётная",
-      "latitude": 55.526887,
-      "longitude": 28.670861
-    },
-    {
-      "id": "muzykalnaja-shkola-odd",
-      "name": "Музыкальная школа",
-      "direction": "нечётная",
-      "latitude": 55.52829,
-      "longitude": 28.668597
-    },
-    {
-      "id": "komsomolskaja-even",
-      "name": "Комсомольская",
-      "direction": "чётная",
-      "latitude": 55.530015,
-      "longitude": 28.664242
-    },
-    {
-      "id": "komsomolskaja-odd",
-      "name": "Комсомольская",
-      "direction": "нечётная",
-      "latitude": 55.530537,
-      "longitude": 28.663791
-    },
-    {
-      "id": "kalinina-even",
-      "name": "Калинина",
-      "direction": "чётная",
-      "latitude": 55.534068,
-      "longitude": 28.66072
-    },
-    {
-      "id": "kalinina-odd",
-      "name": "Калинина",
-      "direction": "нечётная",
-      "latitude": 55.534363,
-      "longitude": 28.661578
-    },
-    {
-      "id": "molodezhnaja-even",
-      "name": "Молодёжная",
-      "direction": "чётная",
-      "latitude": 55.533549,
-      "longitude": 28.653497
-    },
-    {
-      "id": "molodezhnaja-odd",
-      "name": "Молодёжная",
-      "direction": "нечётная",
-      "latitude": 55.533418,
-      "longitude": 28.655165
-    },
-    {
-      "id": "pgu",
-      "name": "ПГУ",
-      "latitude": 55.529089,
-      "longitude": 28.648492
-    },
-    {
-      "id": "poliklinika-no-1",
-      "name": "Поликлиника № 1",
-      "latitude": 55.531086,
-      "longitude": 28.644565
-    },
-    {
-      "id": "stroitelnaja",
-      "name": "Строительная",
-      "latitude": 55.534487,
-      "longitude": 28.649501
-    },
-    {
-      "id": "avtovokzal-novopolotsk-roadway",
-      "name": "Автовокзал: Новополоцк",
-      "direction": "шоссе",
-      "latitude": 55.531512,
-      "longitude": 28.641738
-    },
-    {
-      "id": "avtovokzal-novopolotsk-boarding",
-      "name": "Автовокзал: Новополоцк",
-      "direction": "посадка",
-      "latitude": 55.531092,
-      "longitude": 28.639611
-    },
-    {
-      "id": "avtovokzal-novopolotsk-final",
-      "name": "Автовокзал: Новополоцк",
-      "direction": "конечная",
-      "latitude": 55.5317,
-      "longitude": 28.639581
-    },
-    {
-      "id": "gostinitsa-belarus-even",
-      "name": "Гостиница «Беларусь»",
-      "direction": "чётная",
-      "latitude": 55.536533,
-      "longitude": 28.642967
-    },
-    {
-      "id": "gostinitsa-belarus-odd",
-      "name": "Гостиница «Беларусь»",
-      "direction": "нечётная",
-      "latitude": 55.536387,
-      "longitude": 28.644146
-    },
-    {
-      "id": "kinoteatr-kosmos-even",
-      "name": "Кинотеатр «Космос»",
-      "direction": "чётная",
-      "latitude": 55.53873,
-      "longitude": 28.638015
-    },
-    {
-      "id": "kinoteatr-kosmos-odd",
-      "name": "Кинотеатр «Космос»",
-      "direction": "нечётная",
-      "latitude": 55.539428,
-      "longitude": 28.636888
-    },
-    {
-      "id": "magazin-berezka-even",
-      "name": "Магазин «Берёзка»",
-      "direction": "чётная",
-      "latitude": 55.53774,
-      "longitude": 28.632458
-    },
-    {
-      "id": "magazin-berezka-odd",
-      "name": "Магазин «Берёзка»",
-      "direction": "нечётная",
-      "latitude": 55.538206,
-      "longitude": 28.633561
-    },
-    {
-      "id": "gdk-odd",
-      "name": "ГДК",
-      "direction": "нечётная",
-      "latitude": 55.540548,
-      "longitude": 28.633486
-    },
-    {
-      "id": "pervaja-palatka-even",
-      "name": "Первая палатка",
-      "direction": "чётная",
-      "latitude": 55.542285,
-      "longitude": 28.627308
-    },
-    {
-      "id": "pervaja-palatka-odd",
-      "name": "Первая палатка",
-      "direction": "нечётная",
-      "latitude": 55.542763,
-      "longitude": 28.626377
-    },
-    {
-      "id": "slobodskaja-even",
-      "name": "Слободская",
-      "direction": "чётная",
-      "latitude": 55.536801,
-      "longitude": 28.626421
-    },
-    {
-      "id": "slobodskaja-odd",
-      "name": "Слободская",
-      "direction": "нечётная",
-      "latitude": 55.536059,
-      "longitude": 28.627893
-    },
-    {
-      "id": "gajdara-even",
-      "name": "Гайдара",
-      "direction": "чётная",
-      "latitude": 55.539584,
-      "longitude": 28.620613
-    },
-    {
-      "id": "gajdara-odd",
-      "name": "Гайдара",
-      "direction": "нечётная",
-      "latitude": 55.539994,
-      "longitude": 28.621545
     }
  ]
