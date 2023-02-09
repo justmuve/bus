@@ -1,0 +1,92 @@
+{
+	"-NNS_tz6hb0939RUvfyt": {
+		"destination": "Jug 2",
+		"id": "E1137F02-784D-413B-92CD-5AC58B42581B",
+		"number": "1"
+	},
+	"-NNS_u0mP8-UAtrjbz-b": {
+		"destination": "Retfala",
+		"id": "CB943C02-3ECB-4233-BCFE-AAA140AF74BF",
+		"number": "1"
+	},
+	"-NNSa3nEwsEFVXOInyDL": {
+		"destination": "Jug 2",
+		"id": "8D8FC5D7-C1BF-42CB-B8F1-4D9D8646F4DA",
+		"number": "2"
+	},
+	"-NNSa3ps5fLR6HDmwxus": {
+		"destination": "Josipovac",
+		"id": "2081EF7D-939C-4310-8687-D66B06E42D5F",
+		"number": "2"
+	},
+	"-NNSaI7kz6DMC6D2jYN7": {
+		"destination": "Cepin",
+		"id": "73F1FD51-A29F-4E3B-A5C6-B4F9FA9B023D",
+		"number": "3"
+	},
+	"-NNSaIAM8L5gvApPGztm": {
+		"destination": "Tenja",
+		"id": "EBF6BA9A-549D-4332-BA37-4B558AFB2BFD",
+		"number": "3"
+	},
+	"-NNSaPEyOadjDf2nvALV": {
+		"destination": "Brijesce",
+		"id": "0C570557-D3F8-498D-81B5-725646BC9781",
+		"number": "4"
+	},
+	"-NNSaPHlFIftU0ISOKWj": {
+		"destination": "Tenja",
+		"id": "380C885C-D376-44BA-A700-415516548A5A",
+		"number": "4"
+	},
+	"-NNSa_q-3TC5R_eL4I3i": {
+		"destination": "Bijelo Brdo",
+		"id": "8A9E2E76-5A0F-42F1-9377-B812E675EC4B",
+		"number": "5"
+	},
+	"-NNSa_swIo8WdpyZn4fC": {
+		"destination": "Djakovstina",
+		"id": "BCBDE12B-335B-403F-9F26-C6B21901BBF6",
+		"number": "5"
+	},
+	"-NNSagl0dw5ojOkPeZIJ": {
+		"destination": "Ivanovac",
+		"id": "548BCECF-B458-4203-8A5C-3F2B5360F5E6",
+		"number": "6"
+	},
+	"-NNSagnfRcl2Ub7a-piG": {
+		"destination": "Mio",
+		"id": "7FD48309-FCD6-47C0-A7DC-A10D5AB85842",
+		"number": "6"
+	},
+	"-NNSbCvrHfryUEJN4Suq": {
+		"destination": "Djakovstina",
+		"id": "5326375B-D255-4CF4-B271-B40AD3ACC536",
+		"number": "7"
+	},
+	"-NNSbCyQhcDl7cVt8P-7": {
+		"destination": "Tvrdjavica",
+		"id": "0F22D2BB-70BA-42E7-9B40-0719A612D9E6",
+		"number": "7"
+	},
+	"-NNSbjRCgcyMTsLsnEUA": {
+		"destination": "Jug 2",
+		"id": "31D0C218-5BF9-4A8F-8318-CB2857801D1F",
+		"number": "8"
+	},
+	"-NNSbjTih7wzYFxS2GK_": {
+		"destination": "Bolnica",
+		"id": "B4229D7C-D50C-47BA-947C-5A1E45D5F6A5",
+		"number": "8"
+	},
+	"-NNSc0JTDDj7r6pP7qdc": {
+		"destination": "Drinska",
+		"id": "002CA8E8-9D40-4188-9462-4E4BB00599E0",
+		"number": "9"
+	},
+	"-NNSc0M4SGOIyqKPKkw1": {
+		"destination": "Uske njive",
+		"id": "98B0E959-9FA3-4834-96E7-513FC67A41CD",
+		"number": "9"
+	}
+}
