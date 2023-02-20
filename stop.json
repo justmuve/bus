@@ -70,7 +70,7 @@
          "longitude": 28.687261
       },
       {
-         "di": "zavod-izmeritel-odd",
+         "id": "zavod-izmeritel-odd",
          "name": "Завод «Измеритель»",
          "direction": "нечётная",
          "latitude": 55.517926,
