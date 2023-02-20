@@ -4,15 +4,15 @@
          "description": "Больничный городок → ОАО «Нафтан»",
          "stops": [
             {
-               "key": "magazin-berezka-odd",
+               "key": "polimirovskaja-even",
                "shift": "00:00"
             },
             {
-               "key": "gdk-odd",
+               "key": "vosmoj-mikrorajon-even",
                "shift": "00:02"
             },
             {
-               "key": "pervaja-palatka-odd",
+               "key": "vasilevtsy-even",
                "shift": "00:04"
             },
             {
