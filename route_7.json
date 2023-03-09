@@ -2,7 +2,7 @@
       {
          "id": 1,
          "number": "7",
-         "description": "Подкастельцы → ТСБ ч/з девятую проходную",
+         "description": "Подкастельцы → ТСБ ч/з 9-ую проходную",
          "stops": [
             {
                "key": "polimirovskaja-odd",
@@ -107,7 +107,7 @@
       {
          "id": 2,
          "number": "7",
-         "description": "ТСБ ч/з девятую проходную → Подкастельцы",
+         "description": "ТСБ ч/з 9-ую проходную → Подкастельцы",
          "stops": [
             {
                "key": "sedmaja-prohodnaja-from-industrial-zone",
