@@ -1,7 +1,7 @@
 {
    "id" : 1,
-   "data": "25.03.2023",
-   "stops": [
+   "data" : "25.03.2023",
+   "stops" : [
       {
          "id" : 1,
          "key": "polimirovskaja-even",
