@@ -2,7 +2,7 @@
          {
             "id" : 1,
             "key": "polimirovskaja-even",
-            "name": "Полимировская",
+            "name": "Полимировская(1)",
             "direction": "чётная",
             "latitude": 55.503586,
             "longitude": 28.706229
@@ -10,7 +10,7 @@
          {
                "id" : 2,
             "key": "polimirovskaja-odd",
-            "name": "Полимировская",
+            "name": "Полимировская(2)",
             "direction": "нечётная",
             "latitude": 55.504084,
             "longitude": 28.706181
@@ -18,7 +18,7 @@
          {
                "id" : 3,
             "key": "polimirovskaja-final",
-            "name": "Полимировская",
+            "name": "Полимировская(3)",
             "direction": "конечная",
             "latitude": 55.50383,
             "longitude": 28.706899
