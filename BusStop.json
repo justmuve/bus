@@ -137,7 +137,7 @@
 	},
 	{
 		"id": 18,
-		"key": "kinoteatr-minsk-odd",
+		"key": "muzykalnaja-shkola-odd",
 		"name": "Музыкальная школа",
 		"direction": "нечётная",
 		"latitude": 55.528312,
@@ -145,7 +145,7 @@
 	},
 	{
 		"id": 19,
-		"key": "muzykalnaja-shkola-even",
+		"key": "komsomolskaja-even",
 		"name": "Комсомольская",
 		"direction": "чётная",
 		"latitude": 55.530005,
@@ -153,10 +153,42 @@
 	},
 	{
 		"id": 20,
-		"key": "kinoteatr-minsk-odd",
+		"key": "komsomolskaja-odd",
 		"name": "Комсомольская",
 		"direction": "нечётная",
 		"latitude": 55.530613,
 		"longitude": 28.663963
+	},
+	{
+		"id": 21,
+		"key": "kalinina-even",
+		"name": "Калинина",
+		"direction": "чётная",
+		"latitude": 55.534368,
+		"longitude": 28.661564
+	},
+	{
+		"id": 22,
+		"key": "kalinina-odd",
+		"name": "Комсомольская",
+		"direction": "нечётная",
+		"latitude": 55.534167,
+		"longitude": 28.660789
+	},
+	{
+		"id": 23,
+		"key": "molodezhnaja-odd",
+		"name": "Молодёжная",
+		"direction": "чётная",
+		"latitude": 55.533559,
+		"longitude": 28.653495
+	},
+	{
+		"id": 24,
+		"key": "kalinina-odd",
+		"name": "Молодёжная",
+		"direction": "нечётная",
+		"latitude": 55.533481,
+		"longitude": 28.655294
 	}
 ]
