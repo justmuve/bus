@@ -1,0 +1,25 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "date": "2023-05-21",
+      "title": "Новость 1",
+      "text": "Текст новости 1",
+      "imageUrl": null
+    },
+    {
+      "id": 2,
+      "date": "2023-05-22",
+      "title": "Новость 2",
+      "text": "Текст новости 2",
+      "imageUrl": "http://example.com/image2.png"
+    },
+    {
+      "id": 3,
+      "date": "2023-05-23",
+      "title": "Новость 3",
+      "text": "Текст новости 3",
+      "imageUrl": null
+    }
+  ]
+}
