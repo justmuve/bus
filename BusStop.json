@@ -1,130 +1,162 @@
 [
-         {
-            "id" : 1,
-            "key": "polimirovskaja-even",
-            "name": "Полимировская",
-            "direction": "чётная",
-            "latitude": 55.503060,
-            "longitude": 28.706379
-         },		 
-         {
-            "id" : 2,
-            "key": "polimirovskaja-odd",
-            "name": "Полимировская",
-            "direction": "нечётная",
-            "latitude": 55.503933,
-            "longitude": 28.706751
-         },
-		 {
-            "id" : 3,
-            "key": "polimirovskaja-odd",
-            "name": "Полимировская",
-            "direction": "нечётная",
-            "latitude": 55.504372,
-            "longitude": 28.706115
-         },
-         {
-            "id" : 4,
-            "key": "polimirovskaja-final",
-            "name": "Полимировская(3)",
-            "direction": "конечная",
-            "latitude": 55.504390,
-            "longitude": 28.707405
-         },
-         {
-            "id" : 5,
-            "key": "vosmoj-mikrorajon-even",
-            "name": "Восьмой микрорайон",
-            "direction": "чётная",
-            "latitude": 55.506998,
-            "longitude": 28.701825
-         },
-         {
-               "id" : 6,
-            "key": "vosmoj-mikrorajon-odd",
-            "name": "Восьмой микрорайон",
-            "direction": "нечётная",
-            "latitude": 55.508778,
-            "longitude": 28.699604
-         },
-         {
-               "id" : 7,
-            "key": "vasilevtsy-even",
-            "name": "Василевцы",
-            "direction": "чётная",
-            "latitude": 55.510041,
-            "longitude": 28.697424
-         },
-         {
-               "id" : 8,
-            "key": "vasilevtsy-odd",
-            "name": "Василевцы",
-            "direction": "нечётная",
-            "latitude": 55.511238,
-            "longitude": 28.696197
-         },
-         {
-               "id" : 9,
-            "key": "podkasteltsy-even",
-            "name": "Подкастельцы",
-            "direction": "чётная",
-            "latitude": 55.512152,
-            "longitude": 28.6942
-         },
-         {
-               "id" : 10,
-            "key": "podkasteltsy-odd",
-            "name": "Подкастельцы",
-            "direction": "нечётная",
-            "latitude": 55.513136,
-            "longitude": 28.693544
-         },
-         {
-               "id" : 11,
-            "key": "zavod-izmeritel-even",
-            "name": "Завод «Измеритель»",
-            "direction": "чётная",
-            "latitude": 55.516894,
-            "longitude": 28.687261
-         },
-         {
-               "id" : 12,
-            "key": "zavod-izmeritel-odd",
-            "name": "Завод «Измеритель»",
-            "direction": "нечётная",
-            "latitude": 55.517926,
-            "longitude": 28.68629
-         },
-         {
-               "id" : 13,
-            "key": "gostinitsa-naftan-even",
-            "name": "Гостиница «Нафтан»",
-            "direction": "чётная",
-            "latitude": 55.520705,
-            "longitude": 28.681177
-         },
-         {
-               "id" : 14,
-            "key": "gostinitsa-naftan-odd",
-            "name": "Гостиница «Нафтан»",
-            "direction": "нечётная",
-            "latitude": 55.521076,
-            "longitude": 28.681355
-         },
-         {
-               "id" : 15,
-            "key": "kinoteatr-minsk-even",
-            "name": "Кинотеатр «Минск»",
-            "direction": "чётная",
-            "latitude": 55.523993,
-            "longitude": 28.675754
-         },
-         {
-               "id" : 16,
-            "key": "kinoteatr-minsk-odd",
-            "name": "Кинотеатр «Минск»",
-            "direction": "нечётная",
-            "latitude": 55.52512,
-            "longitude": 28.6746
-         }
+	{
+		"id": 1,
+		"key": "polimirovskaja-even",
+		"name": "Полимировская",
+		"direction": "чётная",
+		"latitude": 55.50306,
+		"longitude": 28.706379
+	},
+	{
+		"id": 2,
+		"key": "polimirovskaja-odd",
+		"name": "Полимировская",
+		"direction": "нечётная",
+		"latitude": 55.503933,
+		"longitude": 28.706751
+	},
+	{
+		"id": 3,
+		"key": "polimirovskajatwo-odd",
+		"name": "Полимировская",
+		"direction": "нечётная",
+		"latitude": 55.504372,
+		"longitude": 28.706115
+	},
+	{
+		"id": 4,
+		"key": "polimirovskaja-final",
+		"name": "Полимировская",
+		"direction": "конечная",
+		"latitude": 55.50439,
+		"longitude": 28.707405
+	},
+	{
+		"id": 5,
+		"key": "vosmoj-mikrorajon-even",
+		"name": "Восьмой микрорайон",
+		"direction": "чётная",
+		"latitude": 55.507061,
+		"longitude": 28.701739
+	},
+	{
+		"id": 6,
+		"key": "vosmoj-mikrorajon-odd",
+		"name": "Восьмой микрорайон",
+		"direction": "нечётная",
+		"latitude": 55.508325,
+		"longitude": 28.700672
+	},
+	{
+		"id": 7,
+		"key": "vasilevtsy-even",
+		"name": "Василевцы",
+		"direction": "чётная",
+		"latitude": 28.697199,
+		"longitude": 55.510128
+	},
+	{
+		"id": 8,
+		"key": "vasilevtsy-odd",
+		"name": "Василевцы",
+		"direction": "нечётная",
+		"latitude": 55.511225,
+		"longitude": 28.696376
+	},
+	{
+		"id": 9,
+		"key": "podkasteltsy-even",
+		"name": "Подкастельцы",
+		"direction": "чётная",
+		"latitude": 55.512115,
+		"longitude": 28.694212
+	},
+	{
+		"id": 10,
+		"key": "podkasteltsy-odd",
+		"name": "Подкастельцы",
+		"direction": "нечётная",
+		"latitude": 55.513224,
+		"longitude": 28.693361
+	},
+	{
+		"id": 11,
+		"key": "zavod-izmeritel-even",
+		"name": "Завод «Измеритель»",
+		"direction": "чётная",
+		"latitude": 55.516976,
+		"longitude": 28.687244
+	},
+	{
+		"id": 12,
+		"key": "zavod-izmeritel-odd",
+		"name": "Завод «Измеритель»",
+		"direction": "нечётная",
+		"latitude": 55.517816,
+		"longitude": 28.686675
+	},
+	{
+		"id": 13,
+		"key": "gostinitsa-naftan-even",
+		"name": "Гостиница «Нафтан»",
+		"direction": "чётная",
+		"latitude": 55.520697,
+		"longitude": 28.68143
+	},
+	{
+		"id": 14,
+		"key": "gostinitsa-naftan-odd",
+		"name": "Гостиница «Нафтан»",
+		"direction": "нечётная",
+		"latitude": 55.521071,
+		"longitude": 28.681513
+	},
+	{
+		"id": 15,
+		"key": "kinoteatr-minsk-even",
+		"name": "Кинотеатр «Минск»",
+		"direction": "чётная",
+		"latitude": 55.524098,
+		"longitude": 28.675887
+	},
+	{
+		"id": 16,
+		"key": "kinoteatr-minsk-odd",
+		"name": "Кинотеатр «Минск»",
+		"direction": "нечётная",
+		"latitude": 55.525157,
+		"longitude": 28.674761
+	},
+	{
+		"id": 17,
+		"key": "muzykalnaja-shkola-even",
+		"name": "Музыкальная школа",
+		"direction": "чётная",
+		"latitude": 55.526909,
+		"longitude": 28.671002
+	},
+	{
+		"id": 18,
+		"key": "kinoteatr-minsk-odd",
+		"name": "Музыкальная школа",
+		"direction": "нечётная",
+		"latitude": 55.528312,
+		"longitude": 28.668950
+	},
+	{
+		"id": 19,
+		"key": "muzykalnaja-shkola-even",
+		"name": "Комсомольская",
+		"direction": "чётная",
+		"latitude": 55.530005,
+		"longitude": 28.664472
+	},
+	{
+		"id": 20,
+		"key": "kinoteatr-minsk-odd",
+		"name": "Комсомольская",
+		"direction": "нечётная",
+		"latitude": 55.530613,
+		"longitude": 28.663963
+	}
 ]
