@@ -177,7 +177,7 @@
 	},
 	{
 		"id": 23,
-		"key": "molodezhnaja-odd",
+		"key": "molodezhnaja-even",
 		"name": "Молодёжная",
 		"direction": "чётная",
 		"latitude": 55.533559,
@@ -190,5 +190,69 @@
 		"direction": "нечётная",
 		"latitude": 55.533481,
 		"longitude": 28.655294
+	},
+	{
+		"id": 25,
+		"key": "molodezhnaja-even",
+		"name": "Молодёжная",
+		"direction": "чётная",
+		"latitude": 55.533559,
+		"longitude": 28.653495
+	},
+	{
+		"id": 26,
+		"key": "kalinina-odd",
+		"name": "Молодёжная",
+		"direction": "нечётная",
+		"latitude": 55.533481,
+		"longitude": 28.655294
+	},
+	{
+		"id": 27,
+		"key": "kalinina-odd",
+		"name": "ПГУ",
+		"direction": "ПГУ",
+		"latitude": 55.529571,
+		"longitude": 28.649047
+	},
+	{
+		"id": 28,
+		"key": "solnechnyy-even",
+		"name": "Магазин Солнечный",
+		"direction": "нечётная",
+		"latitude": 55.533481,
+		"longitude": 28.655294
+	},
+	{
+		"id": 29,
+		"key": "solnechnyy-odd",
+		"name": "Магазин Солнечный",
+		"direction": "ПГУ",
+		"latitude": 55.528927,
+		"longitude": 28.655307
+	},
+	{
+		"id": 30,
+		"key": "stroitelnaja-even",
+		"name": "Площадь Строителей",
+		"direction": "чётная",
+		"latitude": 55.534684,
+		"longitude": 28.649215
+	},
+	{
+		"id": 31,
+		"key": "solnechnyy-even",
+		"name": "Гостиница «Беларусь»",
+		"direction": "чётная",
+		"latitude": 55.536551,
+		"longitude": 28.643243
+	},
+	{
+		"id": 32,
+		"key": "gostinitsa-belarus-odd",
+		"name": "Гостиница «Беларусь»",
+		"direction": "нечётная",
+		"latitude": 55.536437,
+		"longitude": 28.644208
 	}
 ]
