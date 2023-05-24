@@ -66,6 +66,7 @@
             "key": "vasilevtsy-odd",
             "name": "Василевцы",
             "direction": "нечётная",
+		 "city": "Полоцк",
             "latitude": 55.511225,
             "longitude": 28.696376
          },
