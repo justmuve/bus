@@ -4,6 +4,7 @@
             "key": "polimirovskaja-even",
             "name": "Полимировская",
             "direction": "чётная",
+		 "city": "Полоцк",
             "latitude": 55.503060,
             "longitude": 28.706379
          },		 
@@ -12,6 +13,7 @@
             "key": "polimirovskaja-odd",
             "name": "Полимировская",
             "direction": "нечётная",
+		 "city": "Полоцк",
             "latitude": 55.503933,
             "longitude": 28.706751
          },
@@ -20,6 +22,7 @@
             "key": "polimirovskajatwo-odd",
             "name": "Полимировская",
             "direction": "нечётная",
+			 "city": "Полоцк",
             "latitude": 55.504372,
             "longitude": 28.706115
          },
@@ -36,6 +39,7 @@
             "key": "vosmoj-mikrorajon-even",
             "name": "Восьмой микрорайон",
             "direction": "чётная",
+		 "city": "Новополоцк",
             "latitude": 55.507061,
             "longitude": 28.701739
          },
@@ -44,6 +48,7 @@
             "key": "vosmoj-mikrorajon-odd",
             "name": "Восьмой микрорайон",
             "direction": "нечётная",
+		 "city": "Полоцк",
             "latitude": 55.508325,
             "longitude": 28.700672
          },
@@ -52,6 +57,7 @@
             "key": "vasilevtsy-even",
             "name": "Василевцы",
             "direction": "чётная",
+		 "city": "Новополоцк",
             "latitude": 28.697199,
             "longitude": 55.510128
          },
@@ -68,6 +74,7 @@
             "key": "podkasteltsy-even",
             "name": "Подкастельцы",
             "direction": "чётная",
+		 "city": "Полоцк",
             "latitude": 55.512115,
             "longitude": 28.694212
          },
@@ -76,6 +83,7 @@
             "key": "podkasteltsy-odd",
             "name": "Подкастельцы",
             "direction": "нечётная",
+		 "city": "Новополоцк",
             "latitude": 55.513224,
             "longitude": 28.693361
          },
@@ -84,6 +92,7 @@
             "key": "zavod-izmeritel-even",
             "name": "Завод «Измеритель»",
             "direction": "чётная",
+		 "city": "Полоцк",
             "latitude": 55.516976,
             "longitude": 28.687244
          },
@@ -92,6 +101,7 @@
             "key": "zavod-izmeritel-odd",
             "name": "Завод «Измеритель»",
             "direction": "нечётная",
+		 "city": "Новополоцк",
             "latitude": 55.517816,
             "longitude": 28.686675
          },
@@ -100,6 +110,7 @@
             "key": "gostinitsa-naftan-even",
             "name": "Гостиница «Нафтан»",
             "direction": "чётная",
+		 "city": "Полоцк",
             "latitude": 55.520697,
             "longitude": 28.681430
          },
@@ -108,6 +119,7 @@
             "key": "gostinitsa-naftan-odd",
             "name": "Гостиница «Нафтан»",
             "direction": "нечётная",
+		 "city": "Новополоцк",
             "latitude": 55.521071,
             "longitude": 28.681513
          },
@@ -116,6 +128,7 @@
             "key": "kinoteatr-minsk-even",
             "name": "Кинотеатр «Минск»",
             "direction": "чётная",
+		 "city": "Полоцк",
             "latitude": 55.524098,
             "longitude": 28.675887
          },
@@ -124,6 +137,7 @@
             "key": "kinoteatr-minsk-odd",
             "name": "Кинотеатр «Минск»",
             "direction": "нечётная",
+		 "city": "Новополоцк",
             "latitude": 55.525157,
             "longitude": 28.674761
          }
