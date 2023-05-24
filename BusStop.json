@@ -31,6 +31,7 @@
             "key": "polimirovskaja-final",
             "name": "Полимировская",
             "direction": "конечная",
+		 "city": "Полоцк",
             "latitude": 55.504390,
             "longitude": 28.707405
          },
