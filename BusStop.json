@@ -304,5 +304,275 @@
 		"city": "Новополоцк",
 		"latitude": 55.539507,
 		"longitude": 28.637219
+	},
+	{
+		"id": 35,
+		"key": "zolotaya-niva-odd",
+		"name": "Золотая Нива",
+		"direction": "чётная",
+		"city": "Новополоцк",
+		"latitude": 55.540061,
+		"longitude": 28.634553
+	},
+	{
+		"id": 36,
+		"key": "zolotaya-niva-odd",
+		"name": "Золотая Нива",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.540573,
+		"longitude": 28.633682
+	},
+	{
+		"id": 37,
+		"key": "pervaya-palata-odd",
+		"name": "Первая палатка",
+		"direction": "чётная",
+		"city": "Новополоцк",
+		"latitude": 55.542337,
+		"longitude": 28.627378
+	},
+	{
+		"id": 38,
+		"key": "pervaya-palata-odd",
+		"name": "Первая палатка",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.542792,
+		"longitude": 28.626648
+	},
+	{
+		"id": 39,
+		"key": "gajdara-odd",
+		"name": "Гайдара",
+		"direction": "чётная",
+		"city": "Новополоцк",
+		"latitude": 55.539558,
+		"longitude": 28.620776
+	},
+	{
+		"id": 40,
+		"key": "gajdara-odd",
+		"name": "Гайдара",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.540005,
+		"longitude": 28.621585
+	},
+	{
+		"id": 41,
+		"key": "slobodskaja-odd",
+		"name": "Слободская",
+		"direction": "чётная",
+		"city": "Новополоцк",
+		"latitude": 55.536838,
+		"longitude": 28.626467
+	},
+	{
+		"id": 42,
+		"key": "slobodskaja-odd",
+		"name": "Слободская",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.536129,
+		"longitude": 28.627960
+	},
+	{
+		"id": 43,
+		"key": "magazin-berezka-odd",
+		"name": "Магазин «Берёзка»",
+		"direction": "чётная",
+		"city": "Новополоцк",
+		"latitude": 55.537732,
+		"longitude": 28.632656
+	},
+	{
+		"id": 44,
+		"key": "magazin-berezka-odd",
+		"name": "Магазин «Берёзка»",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.538343,
+		"longitude": 28.633931
+	},
+	{
+		"id": 45,
+		"key": "pgu",
+		"name": "Полоцкий государственный университет",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.529571,
+		"longitude": 28.649047
+	},
+	{
+		"id": 46,
+		"key": "avtovokzal-novopolotsk-odd",
+		"name": "Автовокзал",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.532058,
+		"longitude": 28.642087
+	},
+	{
+		"id": 47,
+		"key": "avtovokzal-novopolotsk-even",
+		"name": "Автовокзал",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.531651,
+		"longitude": 28.641717
+	},
+	{
+		"id": 48,
+		"key": "avtovokzal-novopolotsk-boarding",
+		"name": "Автовокзал",
+		"direction": "посадка",
+		"city": "Новополоцк",
+		"latitude": 55.530867,
+		"longitude": 28.639989
+	},
+	{
+		"id": 49,
+		"key": "avtovokzal-novopolotsk-final",
+		"name": "Автовокзал",
+		"direction": "конечная",
+		"city": "Новополоцк",
+		"latitude": 55.531745,
+		"longitude": 28.639596
+	},
+	{
+		"id": 50,
+		"key": "bolnitsa-even",
+		"name": "Больница",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.543312,
+		"longitude": 28.620640
+	},
+	{
+		"id": 51,
+		"key": "po-trebovaniyu-odd",
+		"name": "По требованию",
+		"direction": "чётная",
+		"city": "Новополоцк",
+		"latitude": 55.544589,
+		"longitude": 28.612085
+	},
+	{
+		"id": 52,
+		"key": "po-trebovaniyu-even",
+		"name": "По требованию",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.544745,
+		"longitude": 28.612177
+	},
+	{
+		"id": 53,
+		"key": "profilaktoriy-bvk-odd",
+		"name": "Профилакторий БВК",
+		"direction": "чётная",
+		"city": "Новополоцк",
+		"latitude": 55.547850,
+		"longitude": 28.608790
+	},
+	{
+		"id": 54,
+		"key": "profilaktoriy-bvk-even",
+		"name": "Профилакторий БВК",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.548568,
+		"longitude": 28.608470
+	},
+	{
+		"id": 55,
+		"key": "shnitki-one-odd",
+		"name": "Шнитки-1",
+		"direction": "чётная",
+		"city": "Новополоцк",
+		"latitude": 55.552442,
+		"longitude": 28.603310
+	},
+	{
+		"id": 56,
+		"key": "shnitki-one-even",
+		"name": "Шнитки-1",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.552891,
+		"longitude": 28.603240
+	},
+	{
+		"id": 57,
+		"key": "shnitki-two-odd",
+		"name": "Шнитки-1",
+		"direction": "чётная",
+		"city": "Новополоцк",
+		"latitude": 55.558283,
+		"longitude": 28.594982
+	},
+	{
+		"id": 58,
+		"key": "shnitki-two-even",
+		"name": "Шнитки-1",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.558531,
+		"longitude": 28.594298
+	},
+	{
+		"id": 59,
+		"key": "vitorzhye-odd",
+		"name": "Виторжье",
+		"direction": "чётная",
+		"city": "Новополоцк",
+		"latitude": 55.559501,
+		"longitude": 28.581591
+	},
+	{
+		"id": 60,
+		"key": "vitorzhye-even",
+		"name": "Виторжье",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.559495,
+		"longitude": 28.580778
+	},
+	{
+		"id": 61,
+		"key": "garazhi-odd",
+		"name": "Гаражи",
+		"direction": "чётная",
+		"city": "Новополоцк",
+		"latitude": 55.553799,
+		"longitude": 28.569549
+	},
+	{
+		"id": 62,
+		"key": "garazhi-even",
+		"name": "Гаражи",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.553518,
+		"longitude": 28.569065
+	},
+	{
+		"id": 63,
+		"key": "zavod-bvk-final",
+		"name": "Завод «БВК»",
+		"direction": "конечная",
+		"city": "Новополоцк",
+		"latitude": 55.541381,
+		"longitude": 28.563221
+	},
+	{
+		"id": 64,
+		"key": "zavod-bvk-start",
+		"name": "Завод «БВК»",
+		"direction": "старт",
+		"city": "Новополоцк",
+		"latitude": 55.541094,
+		"longitude": 28.564053
 	}
 ]
