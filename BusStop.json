@@ -559,6 +559,24 @@
 	},
 	{
 		"id": 63,
+		"key": "garazhi-odd",
+		"name": "Сантиз",
+		"direction": "чётная",
+		"city": "Новополоцк",
+		"latitude": 55.547970,
+		"longitude": 28.563955
+	},
+	{
+		"id": 64,
+		"key": "garazhi-even",
+		"name": "Сантиз",
+		"direction": "нечётная",
+		"city": "Новополоцк",
+		"latitude": 55.547908,
+		"longitude": 28.563273
+	},
+	{
+		"id": 65,
 		"key": "zavod-bvk-final",
 		"name": "Завод «БВК»",
 		"direction": "конечная",
@@ -567,12 +585,192 @@
 		"longitude": 28.563221
 	},
 	{
-		"id": 64,
+		"id": 66,
 		"key": "zavod-bvk-start",
 		"name": "Завод «БВК»",
 		"direction": "старт",
 		"city": "Новополоцк",
 		"latitude": 55.541094,
 		"longitude": 28.564053
+	},
+	{
+		"id": 67,
+		"key": "tehnikum",
+		"name": "Техникум",
+		"direction": "На промзону",
+		"city": "Новополоцк",
+		"latitude": 55.534757,
+		"longitude": 28.629623
+	},
+	{
+		"id": 68,
+		"key": "tramvajnyj-park-to-industrial-zone",
+		"name": "Трамвайный парк",
+		"direction": "в промзону",
+		"city": "Новополоцк",
+		"latitude": 55.529095,
+		"longitude": 28.610000
+	},
+	{
+		"id": 69,
+		"key": "tramvajnyj-park-from-industrial-zone",
+		"name": "Трамвайный парк",
+		"direction": "из промзоны",
+		"city": "Новополоцк",
+		"latitude": 55.528972,
+		"longitude": 28.610940
+	},
+	{
+		"id": 70,
+		"key": "podstantsija-to-industrial-zone",
+		"name": "Подстанция",
+		"direction": "в промзону",
+		"city": "Новополоцк",
+		"latitude": 55.527257,
+		"longitude": 28.597168
+	},
+	{
+		"id": 80,
+		"key": "podstantsija-from-industrial-zone",
+		"name": "Подстанция",
+		"direction": "из промзоны",
+		"city": "Новополоцк",
+		"latitude": 55.527246,
+		"longitude": 28.598241
+	},
+	{
+		"id": 81,
+		"key": "belsantehmontazh-to-industrial-zone",
+		"name": "Белсантехмонтаж",
+		"direction": "в промзону",
+		"city": "Новополоцк",
+		"latitude": 55.525878,
+		"longitude": 28.590844
+	},
+	{
+		"id": 82,
+		"key": "belsantehmontazh-from-industrial-zone",
+		"name": "Белсантехмонтаж",
+		"direction": "из промзоны",
+		"city": "Новополоцк",
+		"latitude": 55.525264,
+		"longitude": 28.589420
+	},
+	{
+		"id": 83,
+		"key": "avtopark-to-industrial-zone",
+		"name": "АТП № 6",
+		"direction": "в промзону",
+		"city": "Новополоцк",
+		"latitude": 55.523185,
+		"longitude": 28.581826
+	},
+	{
+		"id": 84,
+		"key": "avtopark-from-industrial-zone",
+		"name": "АТП № 6",
+		"direction": "из промзоны",
+		"city": "Новополоцк",
+		"latitude": 55.523123,
+		"longitude": 28.582469
+	},
+	{
+		"id": 85,
+		"key": "Neftezavodmontazh-to-industrial-zone",
+		"name": "Нефтезаводмонтаж",
+		"direction": "в промзону",
+		"city": "Новополоцк",
+		"latitude": 55.520817,
+		"longitude": 28.574327
+	},
+	{
+		"id": 86,
+		"key": "Neftezavodmontazh-from-industrial-zone",
+		"name": "Нефтезаводмонтаж",
+		"direction": "из промзону",
+		"city": "Новополоцк",
+		"latitude": 55.520926,
+		"longitude": 28.575368
+	},
+	{
+		"id": 87,
+		"key": "oao-naftan-to-industrial-zone",
+		"name": "ОАО «Нафтан»",
+		"direction": "в промзону",
+		"city": "Новополоцк",
+		"latitude": 55.523248,
+		"longitude": 28.558678
+	},
+	{
+		"id": 88,
+		"key": "oao-naftan-final",
+		"name": "ОАО «Нафтан»",
+		"direction": "конечная",
+		"city": "Новополоцк",
+		"latitude": 55.522825,
+		"longitude": 28.557715
+	},
+	{
+		"id": 89,
+		"key": "oao-naftan-from-industrial-zone",
+		"name": "ОАО «Нафтан»",
+		"direction": "из промзоны",
+		"city": "Новополоцк",
+		"latitude": 55.522761,
+		"longitude": 28.558750
+	},
+	{
+		"id": 90,
+		"key": "tets-to-industrial-zone",
+		"name": "ТЭЦ",
+		"direction": "в промзону",
+		"city": "Новополоцк",
+		"latitude": 55.526937,
+		"longitude": 28.552941
+	},
+	{
+		"id": 91,
+		"key": "tets-from-industrial-zone",
+		"name": "ТЭЦ",
+		"direction": "из промзоны",
+		"city": "Новополоцк",
+		"latitude": 55.522761,
+		"longitude": 28.558750
+	},
+	{
+		"id": 92,
+		"key": "su-tets-to-industrial-zone",
+		"name": "СУ-ТЭЦ",
+		"direction": "в промзону",
+		"city": "Новополоцк",
+		"latitude": 55.530559,
+		"longitude": 28.546968
+	},
+	{
+		"id": 93,
+		"key": "su-tets-from-industrial-zone",
+		"name": "СУ-ТЭЦ",
+		"direction": "из промзоны",
+		"city": "Новополоцк",
+		"latitude": 55.529801,
+		"longitude": 28.547701
+	},
+	{
+		"id": 94,
+		"key": "avt-to-industrial-zone-final",
+		"name": "АВТ",
+		"direction": "в промзону",
+		"city": "Новополоцк",
+		"latitude": 55.532407,
+		"longitude": 28.537631
+	},
+	{
+		"id": 95,
+		"key": "avt-from-industrial-zone",
+		"name": "АВТ",
+		"direction": "из промзоны",
+		"city": "Новополоцк",
+		"latitude": 55.532116,
+		"longitude": 28.537052
 	}
 ]
